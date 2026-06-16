@@ -429,11 +429,6 @@ For detailed deployment instructions, see [DEPLOYMENT.md](DEPLOYMENT.md).
 - **Documentation**: Check this README and inline code comments
 - **Community**: Join discussions in project forums
 
-### Contact Information
-- **Project Maintainer**: [Your Name]
-- **Email**: [your.email@example.com]
-- **GitHub**: [github.com/yourusername]
-
 ---
 
 **Note**: This tool is designed for educational and research purposes. Always respect website terms of service and implement appropriate rate limiting when scraping websites.
